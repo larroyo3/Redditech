@@ -1,3 +1,9 @@
+# PRESENTATION PROJET
+
+Projet réalisé en 2 semaines en groupes de 2 personnes. </br>
+Programmation d'une application mobile ayant pour objectif de reprendre les fonctionnalités de Reddit grâce à leur API.
+
+
 # REDDITECH DOCUMENTATION
 
 - - - -
