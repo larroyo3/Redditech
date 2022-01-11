@@ -1,9 +1,9 @@
 # PRESENTATION PROJET
 
-Projet réalisé en 2 semaines en groupes de 2 personnes. </br>
+Projet réalisé en 2 semaines en groupes de 2 personnes dans le cadres de ma 3ème années à Epitech. </br>
 Programmation d'une application mobile ayant pour objectif de reprendre les fonctionnalités de Reddit grâce à leur API.
 
-
+</br></br>
 # REDDITECH DOCUMENTATION
 
 - - - -
